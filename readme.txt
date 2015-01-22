@@ -30,9 +30,9 @@ There is no support for pagination so the only way of limiting very long pages i
 
 The plugin solves a very specific problem of a very specific website. It may be useful to someone else too.
 
-There are two other, unrelated, shortcodes included.
-
 A single translation file is provided for it_IT.
+
+There are two other, unrelated, shortcodes included.
 
 Age calculation
 
