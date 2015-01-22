@@ -3,7 +3,7 @@ Contributors: racanu
 Tags: overview, generate, list
 Requires at least: 4.1
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,12 +30,11 @@ There is no support for pagination so the only way of limiting very long pages i
 
 The plugin solves a very specific problem of a very specific website. It may be useful to someone else too.
 
-There are two other, unrelated, shortcodes included.
-
 A single translation file is provided for it_IT.
 
+There are two other, unrelated, shortcodes included.
+
 Age calculation
-===============
 
     [get-age ref_date="reference date" end_date="end date"]
 
@@ -46,7 +45,6 @@ This is meant to show ages of people (possibly at the time of their death) but m
 *end_date* is optional and represents the date up to which the age is calculated (typically in the past too but may also be in the future)
 
 Time machine
-============
 
     [time-machine ref_time="reference moment" future_text="text to show before ref_time" past_text="text to show after ref_time"]
 
