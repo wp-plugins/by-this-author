@@ -4,7 +4,7 @@
 Plugin Name: By this Author
 Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
 Description: A brief description of the plugin.
-Version: 0.0.1
+Version: 1.1.0
 Author: Racanu
 #Author URI: http://URI_Of_The_Plugin_Author
 Text Domain: by-this-author
